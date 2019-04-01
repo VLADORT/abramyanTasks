@@ -1,0 +1,1 @@
+print(pow(int(input())*int(input()),0.5))
